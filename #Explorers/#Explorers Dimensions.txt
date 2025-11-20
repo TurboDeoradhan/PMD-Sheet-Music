@@ -1,0 +1,3 @@
+Video is 1920x1080 (16x9)
+Keyboard is 1920x300 (32x5)
+Song image is 1152x780 (19x13)
